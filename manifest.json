@@ -5,6 +5,7 @@
   "display": "standalone",
   "background_color": "#000",
   "description": "潜伏之赤途网页版镜像.",
+  "orientation": "portrait",
   "icons": [{
     "src": "./48.png",
     "sizes": "48x48",
